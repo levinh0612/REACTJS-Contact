@@ -60,7 +60,7 @@ const ContactList = (props) => {
       <div className="ui celled list">
         {renderContactList.length > 0
           ? renderContactList
-          : "No Contacts available"}
+          : "Không tồn tại thông tin liên hệ"}
       </div>
     </div>
   );
