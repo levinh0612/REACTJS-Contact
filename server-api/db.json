@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": "599f65b0-cfb2-431b-b394-1ca5d9ea8f04",
+      "name": "Nguyễn Thị Vân Anh",
+      "email": "vananh@gmail.com",
+      "phone": "0925919090"
+    },
+    {
+      "id": "5f1ab560-9ffc-463c-b809-c50a365bf620",
+      "name": "Nguyễn Hữu Lê Vinh",
+      "email": "levinh@gmail.com",
+      "phone": "0396556760"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ea6",
+      "name": "Lương Xuân Trường",
+      "email": "lxtruong@gmail.com",
+      "phone": "0987654320"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ea7",
+      "name": "Junnn",
+      "email": "junjunzz@gmail.com",
+      "phone": "0348857051"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ea8",
+      "name": "Võ Ngọc Bội",
+      "email": "vongocboi@gmail.com",
+      "phone": "0941841260"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ev9",
+      "name": "My mommm",
+      "email": "ltntram@gmail.com",
+      "phone": "0917490820"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ew1",
+      "name": "Đặng Phước Lộc",
+      "email": "dploc@gmail.com",
+      "phone": "0866905500"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ew2",
+      "name": "Lạc Hồng Duy",
+      "email": "lachduy@gmail.com",
+      "phone": "0907785210"
+    }
+  ]
+}
